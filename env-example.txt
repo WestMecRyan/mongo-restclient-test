@@ -1,0 +1,4 @@
+PORT=5000
+MONGODB_URI=mongodb+srv://westmecryan:wAFUOXNDNULyMoLF@cluster0.9tcln.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+DATABASE_NAME=myDatabase
+COLLECTION_NAME=myCollection

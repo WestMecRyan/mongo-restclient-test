@@ -1,0 +1,13 @@
+@baseUrl = htt://localhost:5000
+### Find All Documents
+GET http://localhost:5000/find
+
+### Insert a new Document
+POST http://localhost:5000/insert
+Content-Type: application/json
+
+{
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "age": 5
+}
